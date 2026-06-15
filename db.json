@@ -1,0 +1,42 @@
+{
+  "posts": [
+    { "content":
+      [
+        {
+          "id": 1,
+          "title": "Купить учебник Python",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "title": "Сделать домашнее задание",
+          "completed": true
+        },
+        {
+          "id": 3,
+          "title": "Написать мини-проект",
+          "completed": false
+        },
+        {
+          "id": 4,
+          "title": "Прочитать статью о JSON",
+          "completed": true
+        },
+        {
+          "id": 5,
+          "title": "Посмотреть видео по requests",
+          "completed": false
+        },
+        {
+          "id": 6,
+          "title": "Написать код с API",
+          "completed": false
+        }
+      ]
+    }
+  ],
+    "profile": {
+    "name": "typicode"
+    }
+  
+}
